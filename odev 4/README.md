@@ -1,3 +1,5 @@
+PATİKA dev in Php dersleri çerçevesinde çalıştığımız SQL için verilen 4.cü ödevimiz.
+
 Merhabalar,
 
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
