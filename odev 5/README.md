@@ -1,4 +1,4 @@
-PATİKA dev in Php dersleri çerçevesinde çalıştığımız SQL için verilen 5.cİ ödevimiz.
+PATİKA dev in Php dersleri çerçevesinde çalıştığımız SQL için verilen 5.ci ödevimiz.
 
 Merhabalar,
 
@@ -14,12 +14,12 @@ CEVAPLAR:
 
 1- SELECT * FROM film 
 WHERE title LIKE '%n' 
-ORDER BY length 
+ORDER BY length DESC
 LIMIT 5;
 
 2- SELECT * FROM film 
 WHERE title LIKE '%n' 
-ORDER BY length DESC
+ORDER BY length 
 OFFSET 5 LIMIT 5;
 
 3- SELECT * from customer 
