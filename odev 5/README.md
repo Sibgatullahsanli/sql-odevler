@@ -19,7 +19,7 @@ LIMIT 5;
 
 2- SELECT * FROM film 
 WHERE title LIKE '%n' 
-ORDER BY length 
+ORDER BY length DESC
 OFFSET 5 LIMIT 5;
 
 3- SELECT * from customer 
