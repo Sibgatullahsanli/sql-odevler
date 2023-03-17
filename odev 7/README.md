@@ -1,4 +1,8 @@
-PATİKA dev in Php dersleri çerçevesinde çalıştığımız SQL için verilen 7.ci ödevimiz.
+[PATİKA](https://app.patika.dev/) dev in Php dersleri çerçevesinde çelıştığımız SQL için verilen 7.ci ödevimiz.
+
+[Patika Profilim](https://app.patika.dev/sibgat)
+
+[GitHub Profilim](https://github.com/Sibgatullahsanli)
 
 Merhabalar,
 
